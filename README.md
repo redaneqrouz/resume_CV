@@ -26,12 +26,54 @@ Février 2020 – Aujourd'hui :
    - Création d’un Dashboard web de statistique démographique en temps réel avec python, Flask, Docker, et le web (html, css, js)<a href="https://github.com/redaneqrouz/API-with-flask-and-docker" target="_blank"> [4] </a> .
 
 Septembre 2019- Décembre 2019 :
+
 Data Scientist / Enginner , KAISENS DATA – TECHNIP_FM, Colombes :
-   Le projet vise à expliquer l’augmentation du poids dans les usines flottantes             
-    • Extraction des Bilans dans des PDF (Scanned / Text Based)
-    • Traitement des images par OpenCV (Amélioration de la qualité)
-    • Extraction des valeurs sur des courbes dans des PDF (Scanned )
-    • Extraction des variables expliquant l’augmentation du poids 
-    • Stockage des données dans une base de données noSQL
-          Technos: Python, Spark, Mango DB, Hadoop (Hdfs, MapReduce, Yarn)
+  Le projet vise à expliquer l’augmentation du poids dans les usines flottantes             
+  - Extraction des Bilans dans des PDF (Scanned / Text Based)
+  - Traitement des images par OpenCV (Amélioration de la qualité)
+  - Extraction des valeurs sur des courbes dans des PDF (Scanned )
+  - Extraction des variables expliquant l’augmentation du poids 
+  - Stockage des données dans une base de données noSQL
+  - Technos: Python, Spark, Mongo DB, Hadoop (Hdfs, MapReduce, Yarn)
           Hive, TensorFlow, RegEX, NLTK, SKlearn.
+          
+Septembre 2018- Aout 2019 :
+Data Scientist à la caisse des dépôts CDC, Paris :
+Rattaché à la direction des prêts pour un projet IA.
+  - Clustering et classification des images, textes et documents.
+  - Création des algorithmes de text-mining.
+  - Détection et extraction des tableaux à partir des images avec DL.
+  - Création des algorithmes de  traitement des images et amélioration de la qualité.
+  - Extraire les étiquettes de consommation énergétique à partir des DPE.
+  - Technos: Python, Spark, SQL, Scikit-learn,Tensorflow, Keras, OCR-Tesseract, OpenCV
+ 
+Juin 2018 – Juin 2019 :
+Enseignement d’informatique pour des lycéens, MagicMakers, Paris.
+  - Organisation des ateliers et d’environnement de travail.
+  - Accompagné les makers dans leur apprentissage.
+  - Formuler les objectifs et construire une progression pédagogique.
+  - Mesurer l’atteinte des objectifs pour les makers et leur acquis.
+Technos : Python, Arduino + C/C++, web (HTML, CSS, JS), Unity 3D + C#.
+
+Mars 2018 – Mai 2019 :
+Professeur particulier de mathématique à Cours-LeGendre, Paris.
+
+Janvier – Sept 2017 :
+Développeur Full-stack à DeluxWeb.
+    • Développement de front et back ainsi que l’architecture des sites.
+    • Création de serveurs et de bases de données.
+    • Assurer l'optimisation multi-plateforme pour les smartphones.
+    • Conception et développement d'APIs.
+
+## 
+
+PROJETS REALISES:
+    • Imagerie médicale : Réalisation d’un état de l’art.
+Développement des méthodes d’échantillonnage et un CNN avec Python, Keras. Application sur 1500 images WSI avec un score de 93%.
+    • Machine Learning & Big Data : Etude comparatif Spark vs Flink : Classification, régression, mettre en place de l’infrastructure avec docker & étude de performance des différentes algorithme MLIB.
+    • Reconnaissance Faciale : Utilisation d’un ACP pour extraire les vecteurs propres et leur poids, application de clustering sur les vecteurs avec KNN en utilisant C++ et openCV.
+    • Moteur de recherche : Création d’un moteur de recherche Sémantique de musiques avec Java, SparQL et le FrameWork Jena et une ontologie avec le logiciel protégé.
+  
+  
+  
+  
