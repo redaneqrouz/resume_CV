@@ -64,10 +64,10 @@ Professeur particulier de mathématique à Cours-LeGendre, Paris.
 Janvier – Sept 2017 :
 
 Développeur Full-stack à DeluxWeb.
-    - Développement de front et back ainsi que l’architecture des sites.
-    - Création de serveurs et de bases de données.
-    - Assurer l'optimisation multi-plateforme pour les smartphones.
-    - Conception et développement d'APIs.
+  - Développement de front et back ainsi que l’architecture des sites.
+  - Création de serveurs et de bases de données.
+  - Assurer l'optimisation multi-plateforme pour les smartphones.
+  - Conception et développement d'APIs.
 
 ## Education - Formation 
   - 2018-2019 : Master II Vision et Machine Intelligente à Paris 5
@@ -81,8 +81,7 @@ Développeur Full-stack à DeluxWeb.
   - Machine Learning & Big Data : Etude comparatif Spark vs Flink : Classification, régression, mettre en place de l’infrastructure avec docker & étude de performance des différentes algorithme MLIB <a href="https://github.com/redaneqrouz/Naive-Bayes-Classifier-in-Apache-Flink" target="_blank"> [6] </a>
   - Reconnaissance Faciale : Utilisation d’un ACP pour extraire les vecteurs propres et leur poids, application de clustering sur les vecteurs avec KNN en utilisant C++ et openCV.
   - Moteur de recherche : Création d’un moteur de recherche Sémantique de musiques avec Java, SparQL et le FrameWork Jena et une ontologie avec le logiciel protégé.
-  - Algèbre Abstrait : Création des algorithmes d’isomorphismes et compression en DAG avec C++ <a href=" https://github.com/redaneqrouz/trees-isomorphisme-compression
-" target="_blank"> [6] </a>.
+  - Algèbre Abstrait : Création des algorithmes d’isomorphismes et compression en DAG avec C++ <a href="https://github.com/redaneqrouz/trees-isomorphisme-compression" target="_blank"> [7] </a>.
   
   
   
