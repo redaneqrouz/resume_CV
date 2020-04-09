@@ -38,6 +38,7 @@ Data Scientist / Enginner , KAISENS DATA – TECHNIP_FM, Colombes :
           Hive, TensorFlow, RegEX, NLTK, SKlearn.
           
 Septembre 2018- Aout 2019 :
+
 Data Scientist à la caisse des dépôts CDC, Paris :
 Rattaché à la direction des prêts pour un projet IA.
   - Clustering et classification des images, textes et documents.
@@ -48,6 +49,7 @@ Rattaché à la direction des prêts pour un projet IA.
   - Technos: Python, Spark, SQL, Scikit-learn,Tensorflow, Keras, OCR-Tesseract, OpenCV
  
 Juin 2018 – Juin 2019 :
+
 Enseignement d’informatique pour des lycéens, MagicMakers, Paris.
   - Organisation des ateliers et d’environnement de travail.
   - Accompagné les makers dans leur apprentissage.
@@ -59,20 +61,26 @@ Mars 2018 – Mai 2019 :
 Professeur particulier de mathématique à Cours-LeGendre, Paris.
 
 Janvier – Sept 2017 :
+
 Développeur Full-stack à DeluxWeb.
     • Développement de front et back ainsi que l’architecture des sites.
     • Création de serveurs et de bases de données.
     • Assurer l'optimisation multi-plateforme pour les smartphones.
     • Conception et développement d'APIs.
 
-## 
+## Education - Formation 
+  - 2018-2019 : Master II Vision et Machine Intelligente à Paris 5
+  - 2017-2018 : Master I Apprentissage Automatique pour la Science des      
+                Données à l’Université Paris Descartes.
+  - 2012-2016 : Licence Mathématique & informatique, UMP au Maroc 
+  - 2011-2012 : Baccalauréat Scientifique 
 
-PROJETS REALISES:
-    • Imagerie médicale : Réalisation d’un état de l’art.
-Développement des méthodes d’échantillonnage et un CNN avec Python, Keras. Application sur 1500 images WSI avec un score de 93%.
-    • Machine Learning & Big Data : Etude comparatif Spark vs Flink : Classification, régression, mettre en place de l’infrastructure avec docker & étude de performance des différentes algorithme MLIB.
-    • Reconnaissance Faciale : Utilisation d’un ACP pour extraire les vecteurs propres et leur poids, application de clustering sur les vecteurs avec KNN en utilisant C++ et openCV.
-    • Moteur de recherche : Création d’un moteur de recherche Sémantique de musiques avec Java, SparQL et le FrameWork Jena et une ontologie avec le logiciel protégé.
+## PROJETS REALISES:
+  - Imagerie médicale : Réalisation d’un état de l’art, Développement des méthodes d’échantillonnage et un CNN avec Python, Keras. Application sur 1500 images WSI avec un score de 93%.[]
+  - Machine Learning & Big Data : Etude comparatif Spark vs Flink : Classification, régression, mettre en place de l’infrastructure avec docker & étude de performance des différentes algorithme MLIB.
+  - Reconnaissance Faciale : Utilisation d’un ACP pour extraire les vecteurs propres et leur poids, application de clustering sur les vecteurs avec KNN en utilisant C++ et openCV.
+  - Moteur de recherche : Création d’un moteur de recherche Sémantique de musiques avec Java, SparQL et le FrameWork Jena et une ontologie avec le logiciel protégé.
+  - 
   
   
   
