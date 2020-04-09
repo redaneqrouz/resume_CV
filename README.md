@@ -4,7 +4,7 @@
 Ingénieur diplômé d’un parcours intelligence artificielle de l’Université Paris Descartes, ayant une double compétence data Science et data Engineer et 2 ans d’expériences dans le monde IT, Je suis à recherche des nouveaux challenges en IA, dans laquelle je dispose d’un début et un Track-record
 
 ## Professional Experience
-<h1 style="color:DodgerBlue;"> Février 2020 – Aujourd'hui </h1>:
+<p style="color:blue;"> Février 2020 – Aujourd'hui </p>:
   - Études en ligne & Certifications :
     - Complete Google Data Engineer and Cloud Architect Guide <a href="https://github.com/redaneqrouz/resume_CV/blob/master/UC-google_cloud_engineer_udemy.pdf" target="_blank"> [1] </a>
     - Big Data : Hadoop ecosystem:
