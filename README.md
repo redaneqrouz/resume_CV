@@ -3,16 +3,23 @@
 Ingénieur diplômé d’un parcours intelligence artificielle de l’Université Paris Descartes, ayant une double compétence data Science et data Engineer et 2 ans d’expériences dans le monde IT, Je suis à recherche des nouveaux challenges en IA, dans laquelle je dispose d’un début et un Track-record
 
 ## Professional Experience
-  - Développeur Web et intervention en matière de communication (PHP)
-    - Cabinet d’Avocats Wojakowski, Paris (France)
-    - www.cabinet-wojakowski.com
-    - Réalisation d'un site Web professionnel
-    - Gestion de la communication et des campagnes promotionnelles (Google Adwords)
-  - Conception et réalisation d’une application de recommandations (Suggest - IA Recommendation) dans plusieurs domaines culturels (Cinéma, Musique, Lecture et Séries TV) 
-    - Réalisation d’une application Mobile iOS (Xcode, Swift 3)
-    - Réalisation d’une Interface API/REST BackEnd (PHP, MySql)
-  - Co-Créateur de la société IB DIGITAL SAS, et d’une structure dénommée L’AgenceWebEtudiante.fr (Fini)
-    - Réalisation de sites Web professionnels dans le domaine juridique et dans les activités du transport et de la restauration
-    - Réalisation d’une application mobile professionnel pour les VTC
-  -  Superprof en Informatique <a href="https://www.superprof.fr/informatique-cours-initiations-questions-niveaux-1er-cours-offert.html">Superprof</a>
-    - J'ai donné près de 100h de cours d'informatique en programmation Web et mobile (IOS), Java et VBA
+  Janvier – Février 2020 :
+Études en ligne & Certifications :
+    • Complete Google Data Engineer and Cloud Architect Guide
+    • Data Engineer: Mastering the Concepts Hadoop ecosystem.
+    • Machine Learning with Scikit-Learn and TensorFlow.
+    • Become a Data analyst specialist (statistics & data mining).
+  Competitions Kaggle:   
+    • Real estate price prediction.
+    • Credit card fraud detection and classification.
+Création d’un Dashboard web de statistique démographique en temps réel avec python, Flask, Docker, et le web (html, css, js).
+   Septembre 2019- Décembre 2019 :
+Data Scientist / Enginner , KAISENS DATA – TECHNIP_FM, Colombes :
+   Le projet vise à expliquer l’augmentation du poids dans les usines flottantes             
+    • Extraction des Bilans dans des PDF (Scanned / Text Based)
+    • Traitement des images par OpenCV (Amélioration de la qualité)
+    • Extraction des valeurs sur des courbes dans des PDF (Scanned )
+    • Extraction des variables expliquant l’augmentation du poids 
+    • Stockage des données dans une base de données noSQL
+          Technos: Python, Spark, Mango DB, Hadoop (Hdfs, MapReduce, Yarn)
+          Hive, TensorFlow, RegEX, NLTK, SKlearn.
