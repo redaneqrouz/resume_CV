@@ -6,10 +6,13 @@ Ingénieur diplômé d’un parcours intelligence artificielle de l’Universit�
 Février 2020 – Aujourd'hui :
   - Études en ligne & Certifications :
     - Complete Google Data Engineer and Cloud Architect Guide
-    - Big Data : Hadoop ecosystem. <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0115EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">[1]</a> 
-    <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0131EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">[2]</a> 
-    <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0141EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">[3]</a> 
-    <a href="https://github.com/redaneqrouz/resume_CV/blob/master/BigDataUniversity%20BD0111EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">[4]</a> 
+    - Big Data : Hadoop ecosystem:
+      - <a href="https://github.com/redaneqrouz/resume_CV/blob/master/BigDataUniversity%20BD0111EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank"> Haddop Fundamentals </a>
+      -  <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0115EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">Map Reduce and Yarn</a> 
+      - <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0131EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank"> Moving Data into Hadoop  </a> 
+      -  <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0141EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">Accessing Hadoop Data using Hive</a> 
+ 
+      
     - Machine Learning with Scikit-Learn and TensorFlow.
     - Become a Data analyst specialist (statistics & data mining)
   - Competitions Kaggle:   
