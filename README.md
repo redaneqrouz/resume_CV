@@ -1,4 +1,5 @@
-# CV - Resume 
+# Resume - <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Reda_NEQROUZ_resume_v1_2.pdf" target="_blank"> [CV] </a>
+
 # DATA SCIENTIST / ENGINEER 
 Ingénieur diplômé d’un parcours intelligence artificielle de l’Université Paris Descartes, ayant une double compétence data Science et data Engineer et 2 ans d’expériences dans le monde IT, Je suis à recherche des nouveaux challenges en IA, dans laquelle je dispose d’un début et un Track-record
 
@@ -63,10 +64,10 @@ Professeur particulier de mathématique à Cours-LeGendre, Paris.
 Janvier – Sept 2017 :
 
 Développeur Full-stack à DeluxWeb.
-    • Développement de front et back ainsi que l’architecture des sites.
-    • Création de serveurs et de bases de données.
-    • Assurer l'optimisation multi-plateforme pour les smartphones.
-    • Conception et développement d'APIs.
+    - Développement de front et back ainsi que l’architecture des sites.
+    - Création de serveurs et de bases de données.
+    - Assurer l'optimisation multi-plateforme pour les smartphones.
+    - Conception et développement d'APIs.
 
 ## Education - Formation 
   - 2018-2019 : Master II Vision et Machine Intelligente à Paris 5
@@ -76,11 +77,12 @@ Développeur Full-stack à DeluxWeb.
   - 2011-2012 : Baccalauréat Scientifique 
 
 ## PROJETS REALISES:
-  - Imagerie médicale : Réalisation d’un état de l’art, Développement des méthodes d’échantillonnage et un CNN avec Python, Keras. Application sur 1500 images WSI avec un score de 93%.[]
-  - Machine Learning & Big Data : Etude comparatif Spark vs Flink : Classification, régression, mettre en place de l’infrastructure avec docker & étude de performance des différentes algorithme MLIB.
+  - Imagerie médicale : Réalisation d’un état de l’art, Développement des méthodes d’échantillonnage et un CNN avec Python, Keras. Application sur 1500 images WSI avec un score de 93%.<a href="https://github.com/redaneqrouz/russian-ecommerce-website-dataset-for-fraud-prevention" target="_blank"> [5] </a>
+  - Machine Learning & Big Data : Etude comparatif Spark vs Flink : Classification, régression, mettre en place de l’infrastructure avec docker & étude de performance des différentes algorithme MLIB <a href="https://github.com/redaneqrouz/Naive-Bayes-Classifier-in-Apache-Flink" target="_blank"> [6] </a>
   - Reconnaissance Faciale : Utilisation d’un ACP pour extraire les vecteurs propres et leur poids, application de clustering sur les vecteurs avec KNN en utilisant C++ et openCV.
   - Moteur de recherche : Création d’un moteur de recherche Sémantique de musiques avec Java, SparQL et le FrameWork Jena et une ontologie avec le logiciel protégé.
-  - 
+  - Algèbre Abstrait : Création des algorithmes d’isomorphismes et compression en DAG avec C++ <a href=" https://github.com/redaneqrouz/trees-isomorphisme-compression
+" target="_blank"> [6] </a>.
   
   
   
