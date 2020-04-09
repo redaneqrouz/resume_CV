@@ -11,12 +11,12 @@ Février 2020 – Aujourd'hui :
       -  <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0115EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">Map Reduce and Yarn</a> 
       - <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0131EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank"> Moving Data into Hadoop  </a> 
       -  <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Big%20Data%20University%20BD0141EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank">Accessing Hadoop Data using Hive</a> 
-   - Spark Fundamentals :
-      - <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Cognitive%20Class%20BD0211EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank"> Spark Fundamentals I </a>
-      - Spark Fundamentals II
-      - Spark MLlib
-      - Exploring Spark’s GraphX
-      - Analyzing Big Data in R using Apache Spark
+     - Spark Fundamentals :
+        - <a href="https://github.com/redaneqrouz/resume_CV/blob/master/Cognitive%20Class%20BD0211EN%20Certificate%20_%20Cognitive%20Class.pdf" target="_blank"> Spark Fundamentals I </a>
+        - Spark Fundamentals II
+        - Spark MLlib
+        - Exploring Spark’s GraphX
+        - Analyzing Big Data in R using Apache Spark
       
   - Competitions Kaggle:   
     - Real estate price prediction .
